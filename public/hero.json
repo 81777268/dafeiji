@@ -1,0 +1,44 @@
+{"frames": {
+
+"bullet1.png":
+{
+	"frame": {"x":205,"y":1,"w":9,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":21},
+	"sourceSize": {"w":9,"h":21}
+},
+"bullet2.png":
+{
+	"frame": {"x":205,"y":24,"w":9,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":21},
+	"sourceSize": {"w":9,"h":21}
+},
+"hero1.png":
+{
+	"frame": {"x":1,"y":1,"w":100,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":124},
+	"sourceSize": {"w":100,"h":124}
+},
+"hero2.png":
+{
+	"frame": {"x":103,"y":1,"w":100,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":122},
+	"sourceSize": {"w":100,"h":122}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hero.png",
+	"format": "RGBA8888",
+	"size": {"w":215,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4d47e57ee9913898a611ccd5a8a5bfc4:8662e97f8a403339c93f42bb908d178d:eec64b416d3f54b5cb5181ef71d8f236$"
+}
+}

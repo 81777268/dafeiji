@@ -1,0 +1,45 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "test": "umi test",
+    "lint": "eslint --ext .js src mock tests",
+    "precommit": "lint-staged"
+  },
+  "devDependencies": {
+    "@umijs/preset-react": "^1",
+    "babel-eslint": "^9.0.0",
+    "babel-preset-spritejsx": "^1.0.7",
+    "eslint": "^5.4.0",
+    "eslint-config-umi": "^0.1.5",
+    "eslint-plugin-flowtype": "^2.50.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "husky": "^0.14.3",
+    "json-loader": "^0.5.7",
+    "lint-staged": "^7.2.2",
+    "umi": "^3.1.4"
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "audiosprite": "^0.7.2",
+    "canvas": "^2.0.1",
+    "howler": "^2.2.0",
+    "lib-flexible": "^0.3.2",
+    "loadsh": "^0.0.4",
+    "matter-js": "^0.14.2",
+    "react-reconciler": "^0.18.0",
+    "sprite-react": "^0.2.1",
+    "spritejs": "3.7.13"
+  }
+}

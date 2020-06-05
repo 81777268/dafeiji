@@ -1,0 +1,52 @@
+{"frames": {
+
+"enemy0.png":
+{
+	"frame": {"x":1,"y":103,"w":51,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":39},
+	"sourceSize": {"w":51,"h":39}
+},
+"enemy0_down1.png":
+{
+	"frame": {"x":1,"y":144,"w":51,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":39},
+	"sourceSize": {"w":51,"h":39}
+},
+"enemy0_down2.png":
+{
+	"frame": {"x":1,"y":54,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+},
+"enemy0_down3.png":
+{
+	"frame": {"x":1,"y":1,"w":57,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":51},
+	"sourceSize": {"w":57,"h":51}
+},
+"enemy0_down4.png":
+{
+	"frame": {"x":1,"y":185,"w":47,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":39},
+	"sourceSize": {"w":47,"h":39}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy0.png",
+	"format": "RGBA8888",
+	"size": {"w":59,"h":225},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fa3e0198e91a4405fd6e3ce773e35695:290d8c54ae29b1fa788c678bba84fe47:e45d5753f058f8cec324fd7e29f8c703$"
+}
+}

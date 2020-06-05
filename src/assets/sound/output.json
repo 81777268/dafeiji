@@ -1,0 +1,35 @@
+{
+  "resources": [
+    "output.ogg",
+    "output.m4a",
+    "output.mp3",
+    "output.ac3"
+  ],
+  "spritemap": {
+    "bullet": {
+      "start": 0,
+      "end": 0.2089795918367347,
+      "loop": false
+    },
+    "enemy0_down": {
+      "start": 2,
+      "end": 2.835918367346939,
+      "loop": false
+    },
+    "enemy1_down": {
+      "start": 4,
+      "end": 7.291428571428572,
+      "loop": false
+    },
+    "enemy2_down": {
+      "start": 9,
+      "end": 10.248004535147393,
+      "loop": false
+    },
+    "game_music": {
+      "start": 12,
+      "end": 61.371428571428574,
+      "loop": false
+    }
+  }
+}
